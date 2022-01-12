@@ -133,7 +133,7 @@ if __name__ == "__main__":
     l1.count_linkList()
     l1.insert_at(67,-1)
     l1.print_linked_list()
-    l1.count_linkList
+    l1.count_linkList()
     l1.insert_at(56,14)
     l1.print_linked_list()
     l1.count_linkList()
