@@ -15,3 +15,4 @@ class Counter:
 
 for c in Counter(3,8):
     print(c)
+
